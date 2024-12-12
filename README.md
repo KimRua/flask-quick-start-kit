@@ -1,4 +1,4 @@
-# Flask Quick Start Kit (플라스크 빠른 시작 키트)
+# Flask Quick Start Kit
 
 Flask Quick Start Kit에 오신 것을 환영합니다! 이 프로젝트는 Flask를 사용한 개발을 빠르게 시작할 수 있도록 설계되었습니다.
 
@@ -92,7 +92,7 @@ Flask 애플리케이션을 실행하려면:
 
 ---
 
-### Flask Quick Start Kit
+# Flask Quick Start Kit
 
 Welcome to the **Flask Quick Start Kit**! This project is designed to help you get started with Flask development quickly and efficiently.
 
