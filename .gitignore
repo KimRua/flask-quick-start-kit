@@ -1,0 +1,40 @@
+# Python virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and configuration files
+*.env
+.env.*
+
+# Editor/IDE-related files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Unnecessary files specific to operating systems
+.DS_Store
+Thumbs.db
+
+# Log files and debug outputs
+*.log
+
+# Test output files
+.coverage
+*.cover
+*.pytest_cache/
+
+# Distribution packages
+dist/
+build/
+*.egg-info/
+
+# Miscellaneous
+*.sqlite3
+*.sqlite
+*.db
